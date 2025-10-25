@@ -3,6 +3,8 @@
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/25CD3014/generated-app-20251025-202256)
 
 PVX Loop is a web application for a cleantech startup that provides 'EPR-as-a-Service' for solar panel waste management. The platform serves two primary functions: a public-facing informational website and a secure client portal. The website educates potential partners about PVX Loop's unique business model, which focuses on immediate profitability by extracting high-grade aluminum and solving legal compliance issues for solar producers. The client portal allows registered solar power producers to log in, schedule pickups for their end-of-life solar panels, track the status of their pickups, and access essential compliance documentation, thereby streamlining their waste management and legal reporting obligations.
+   https://v1-pvx-loop-portal-81ddf63c-b4c6-4360-97ef-c2b81a256c12.build-preview.cloudflare.dev/about
+   accesss through this link.
 
 ## Key Features
 
